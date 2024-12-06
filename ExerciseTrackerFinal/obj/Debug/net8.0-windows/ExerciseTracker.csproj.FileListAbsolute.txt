@@ -1,0 +1,17 @@
+C:\Users\nesmb\Coding\ExerciseTracker\bin\Debug\net8.0-windows\ExerciseTracker.exe
+C:\Users\nesmb\Coding\ExerciseTracker\bin\Debug\net8.0-windows\ExerciseTracker.deps.json
+C:\Users\nesmb\Coding\ExerciseTracker\bin\Debug\net8.0-windows\ExerciseTracker.runtimeconfig.json
+C:\Users\nesmb\Coding\ExerciseTracker\bin\Debug\net8.0-windows\ExerciseTracker.dll
+C:\Users\nesmb\Coding\ExerciseTracker\bin\Debug\net8.0-windows\ExerciseTracker.pdb
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.csproj.GenerateResource.cache
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.AssemblyInfoInputs.cache
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.AssemblyInfo.cs
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.csproj.CoreCompileInputs.cache
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.dll
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\refint\ExerciseTracker.dll
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.pdb
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.genruntimeconfig.cache
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ref\ExerciseTracker.dll
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.Main.resources
+C:\Users\nesmb\Coding\ExerciseTracker\obj\Debug\net8.0-windows\ExerciseTracker.Login.resources
